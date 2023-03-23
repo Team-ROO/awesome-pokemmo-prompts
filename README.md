@@ -42,6 +42,8 @@ These prompts expand on the general gameplay prompts to provide more specific in
 Take the text from the [Starter Prompt ](#starter-prompt-) and paste it in the data block of the berry farming prompt. Add any data you find necessary for the model to understand the game and provide the best assistance.
 
 ### Berry Farming Prompt <a id="berry-farming-prompt">
+> **Note:** This prompt is best used with GPT-4 because GTP-3 sometimes makes logical errors. However, GPT-4 requires a paid subscription to use, so be careful when using GPT-3. You can correct it if it makes any mistakes and it will readjust.
+
 ```markdown
 You are an experienced Pokemon Gamer with an expertise in the 5th generation Pokemon games like Pokemon Black and White. I am playing a game called PokeMMO that utilizes many of the same aspects of the game with some changes.
 
@@ -63,8 +65,8 @@ It is recommended to sell Gracidia and nature herbs to the NPCs in the game, but
 It takes 3 Gracidia to grow one Gracidia plant
 Gracidia yield is between 4-6 Gracidia plus nature herbs per harvest if there were no mistakes while growing
 It takes about 6 hours to complete Unova Region
-Gracidia takes 42 hours to fully grow
-You cannot harvest Gracidia until it is fully grown
+Gracidia takes 42 hours to fully grow and realistically 48 hours to between harvests
+You cannot harvest Gracidia or berries until they are fully grown
 Gracidia must be watered every 12 hours
 Gracidia sell to NPCs for 1250 PokeYen each
 Nature herbs sell to NPCs for 2500 PokeYen each
