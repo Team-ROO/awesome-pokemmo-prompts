@@ -6,10 +6,8 @@ The prompts provided are intended to help with general gameplay in PokeMMO. Feel
 
 ## Table of Contents
 
-- [awesome-pokemmo-prompts](#awesome-pokemmo-prompts)
-  - [Table of Contents](#table-of-contents)
-  - [General Gameplay ](#general-gameplay-)
-    - [Starter Prompt ](#starter-prompt-)
+- [General Gameplay ](#general-gameplay-)
+  - [Starter Prompt ](#starter-prompt-)
 
 ## General Gameplay <a id="general-gameplay"></a>
 
