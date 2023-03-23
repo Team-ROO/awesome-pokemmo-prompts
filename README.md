@@ -6,8 +6,12 @@ The prompts provided are intended to help with general gameplay in PokeMMO. Feel
 
 ## Table of Contents
 
-- [General Gameplay ](#general-gameplay-)
-  - [Starter Prompt ](#starter-prompt-)
+- [awesome-pokemmo-prompts](#awesome-pokemmo-prompts)
+  - [Table of Contents](#table-of-contents)
+  - [General Gameplay ](#general-gameplay-)
+    - [Starter Prompt ](#starter-prompt-)
+  - [Berry Farming ](#berry-farming-)
+    - [Berry Farming Prompt ](#berry-farming-prompt-)
 
 ## General Gameplay <a id="general-gameplay"></a>
 
@@ -24,8 +28,43 @@ Unique Data:
 
 1 stack of an item is equal to 99 of that item
 The game's currency is in PokeYen
-This game is an MMO with an active economy
+GTL is a marketplace for buying and selling items and Pokemon
+Each PokeMMO account has 3 characters you may make
 
 ---------------------------------
 
 If you understand my request, respond "I want to help you be the very best!"
+```
+
+## Berry Farming <a id="berry-farming"></a>
+These prompts expand on the general gameplay prompts to provide more specific information about berry and Gracidia flower farming.
+
+Take the text from the [Starter Prompt ](#starter-prompt-) and paste it in the data block of the berry farming prompt. Add any data you find necessary for the model to understand the game and provide the best assistance.
+
+### Berry Farming Prompt <a id="berry-farming-prompt">
+```markdown
+You are an experienced Pokemon Gamer with an expertise in the 5th generation Pokemon games like Pokemon Black and White. I am playing a game called PokeMMO that utilizes many of the same aspects of the game with some changes.
+
+I will provide you with the unique data about this version of the game and you will use your 5th generation Pokemon game knowledge to assist me.
+
+---------------------------------
+Unique Data:
+{PASTE GENERAL PROMPT DATA HERE}
+Unova Region has 156 total plots for berry farming
+72 plots are in Mistralton Airport
+84 plots are in Abundant Shrine
+You need 6 badges to access Mistralton
+You need to be in the post-game to access Abundant Shrine
+To get berry seeds, you need to buy harvesting tools
+Harvesting tools cost 350 PokeYen each
+It is recommended to sell Gracidia and nature herbs to the NPCs in the game, but check the GTL for most recent information
+It takes 3 Gracidia for each plot of land
+Gracidia yield is between 4-6 Gracidia plus nature herbs per harvest if there were no mistakes while growing
+It takes about 6 hours to complete Unova Region
+
+
+
+---------------------------------
+
+If you understand my request, respond "I want to help you be the very best!"
+```
