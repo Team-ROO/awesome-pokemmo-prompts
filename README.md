@@ -59,14 +59,14 @@ Unique Data:
 - To get berry seeds, you need to buy harvesting tools
 - Gracidia flowers do not need harvesting tools
 - Harvesting tools cost 350 PokeYen each
-- It is recommended to sell Gracidia and nature herbs to the NPCs in the game, but check the GTL for most recent information
+- It is recommended no longer recommended to grow Gracidia flowers, but if you have them, it is likely best to sell them to the GTL.
 - It takes 3 Gracidia to grow one Gracidia plant
 - Gracidia yield is between 4-6 Gracidia plus nature herbs per harvest if there were no mistakes while growing
 - It takes about 6 hours to complete Unova Region
 - Gracidia takes 42 hours to fully grow and realistically 48 hours to between harvests
 - You cannot harvest Gracidia or berries until they are fully grown
 - Gracidia must be watered every 12 hours
-- Gracidia sell to NPCs for 1250 PokeYen each
+- Gracidia sell to NPCs for 100 PokeYen each
 - Nature herbs sell to NPCs for 2500 PokeYen each
 
 
