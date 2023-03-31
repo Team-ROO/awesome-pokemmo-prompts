@@ -50,7 +50,6 @@ Take the text from the [Starter Prompt ](#starter-prompt-) and paste it in the d
 {USE BASE PROMPT HERE}
 
 Unique Data:
-{PASTE BASE PROMPT DATA HERE}
 - Unova Region has 156 total plots for berry farming
 - 72 plots are in Mistralton Airport
 - 84 plots are in Abundant Shrine
@@ -67,8 +66,16 @@ Unique Data:
 - You cannot harvest Gracidia or berries until they are fully grown
 - Gracidia must be watered every 12 hours
 - Gracidia sell to NPCs for 100 PokeYen each
-- Nature herbs sell to NPCs for 2500 PokeYen each
-
+- Each berry plant has a recipe and the recipe must match the specified points exactly
+- There can only be a maximum of 3 seeds used for a berry plant recipe
+- A berry plant requires a minimum of 3 points to grow a berry plant.
+- Berry seeds come in two intensities: regular and very
+- Regular seeds provide 1 point and very seeds provide 2 points
+- Berry seeds can be 1 of 4 flavors: spicy, dry, sweet, bitter
+- Cherri berry plants require 3 spicy
+- Peacha berry plants require 3 sweet
+- Rawst berry plants require 3 bitter
+- Leppas berry plants require 2 spicy, 1 sweet, and 1 bitter
 
 If you understand my request, respond "I want to help you be the very best!"
 ```
