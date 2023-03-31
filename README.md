@@ -45,7 +45,6 @@ Take the text from the [Starter Prompt ](#starter-prompt-) and paste it in the d
 
 > **Note:** It's recommended to use GPT-4 for this prompt, as GPT-3 can sometimes make logical errors. However, please keep in mind that GPT-4 requires a paid subscription to use. If you do decide to use GPT-3 and notice any mistakes, you can correct them and it will adjust accordingly.
 
-
 ```markdown
 {USE BASE PROMPT HERE}
 
@@ -66,16 +65,17 @@ Unique Data:
 - You cannot harvest Gracidia or berries until they are fully grown
 - Gracidia must be watered every 12 hours
 - Gracidia sell to NPCs for 100 PokeYen each
-- Each berry plant has a recipe and the recipe must match the specified points exactly
-- There can only be a maximum of 3 seeds used for a berry plant recipe
-- A berry plant requires a minimum of 3 points to grow a berry plant.
-- Berry seeds come in two intensities: regular and very
-- Regular seeds provide 1 point and very seeds provide 2 points
-- Berry seeds can be 1 of 4 flavors: spicy, dry, sweet, bitter
-- Cherri berry plants require 3 spicy
-- Peacha berry plants require 3 sweet
-- Rawst berry plants require 3 bitter
-- Leppas berry plants require 2 spicy, 1 sweet, and 1 bitter
+- Berry recipes require a specific combination of flavor points to grow a berry plant.
+- There can only be a MAXIMUM of 3 seeds used for a berry plant recipe.
+- Each berry plant requires a MINIMUM of 3 points to grow.
+- Seeds can have two intensities: regular and very.
+- Regular seeds provide 1 point, and very seeds provide 2 points.
+- Seeds can have 1 of 5 flavors: spicy, dry, sweet, sour, or bitter.
+- For example, a Leppa berry plant requires 2 spicy points, 1 sweet point, and 1 bitter point. This can be achieved with a Very Spicy seed, a Sweet seed, and a Bitter seed.
+- Cherri berry plants require 3 spicy and when harvested will produce a yield of 4-6 cherri berries.
+- Peacha berry plants require 3 sweet and when harvested will produce a yield of 4-6 peacha berries.
+- Rawst berry plants require 3 bitter and when harvested will produce a yield of 4-6 rawst berries.
+- A berry can be harvested to produce berry seeds. A harvested berry has a 1/3 chance of producing a "very" type seed and 2/3 chance of producing a regular type seed.
 
 If you understand my request, respond "I want to help you be the very best!"
 ```
