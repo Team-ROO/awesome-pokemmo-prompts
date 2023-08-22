@@ -49,22 +49,20 @@ Take the text from the [Starter Prompt ](#starter-prompt-) and paste it in the d
 {USE BASE PROMPT HERE}
 
 Unique Data:
+- A PokeMMO account can have 3 characters
+- A character has access to a single instance of the Unova Region
+- A person can make multiple PokeMMO accounts in order to make new characters
+- "Custom Strings" or "Strings" are custom pieces of text that remove text from the game in order to speed the game up.
 - Unova Region has 156 total plots for berry farming
 - 72 plots are in Mistralton Airport
 - 84 plots are in Abundant Shrine
 - You need 6 badges to access Mistralton
 - You need to be in the post-game to access Abundant Shrine
-- To get berry seeds, you need to buy harvesting tools
-- Gracidia flowers do not need harvesting tools
+- To get berry seeds from berries, you need to buy harvesting tools
+- It takes about 7 minutes to water a character's berries with custom strings enabled
 - Harvesting tools cost 350 PokeYen each
-- It is recommended no longer recommended to grow Gracidia flowers, but if you have them, it is likely best to sell them to the GTL.
-- It takes 3 Gracidia to grow one Gracidia plant
-- Gracidia yield is between 4-6 Gracidia plus nature herbs per harvest if there were no mistakes while growing
 - It takes about 6 hours to complete Unova Region
-- Gracidia takes 42 hours to fully grow and realistically 48 hours to between harvests
-- You cannot harvest Gracidia or berries until they are fully grown
-- Gracidia must be watered every 12 hours
-- Gracidia sell to NPCs for 100 PokeYen each
+- You cannot harvest berries until they are fully grown
 - Berry recipes require a specific combination of flavor points to grow a berry plant.
 - There can only be a MAXIMUM of 3 seeds used for a berry plant recipe.
 - Each berry plant requires a MINIMUM of 3 points to grow.
